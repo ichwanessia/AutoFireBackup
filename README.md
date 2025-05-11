@@ -1,7 +1,7 @@
 # AutoFireBackup
 AutoFireBackup.exe is an application designed to automatically back up Firebird databases and send notifications via email. This guide will help users understand how to configure and use the application effectively.
 
-# Featires
+# Features
 -  Compresses daily backup files automatically into ZIP format
 -  Generates restore reports to confirm that backups are valid
 -  Creates separate log files for backup and restore processes
